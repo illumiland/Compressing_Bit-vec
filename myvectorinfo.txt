@@ -1,0 +1,12 @@
+
+R0
+1000010010101000000100000001
+
+R1
+11101011
+R0, size_in_mega_bytes:0.000181198
+R1, size_in_mega_bytes:8.67844e-05
+Total, size_in_mega_bytes:0.000267982
+1 in R0 :7
+1 in R1 :6
+time consuming: 0.056ms
